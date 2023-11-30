@@ -1,0 +1,10 @@
+# This file contains the top-level dependencies, without pinned versions, for this course.
+# It is used to create the working requirements.txt file with transitive dependencies and fixed versions.
+# You don't need to use this file or modify it, just install the dependencies for requirements.txt
+# But you can learn more here: https://pip-tools.readthedocs.io/en/latest/
+#
+
+# Chapter 3 dependencies
+jupyter
+jupyterlab
+matplotlib

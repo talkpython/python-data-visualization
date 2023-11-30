@@ -130,3 +130,10 @@ dmypy.json
 
 # PyCharm projects
 .idea/
+
+# Ignore some of the output generated from the notebooks.
+code/images/*.png
+code/images/*.jpg
+code/images/*.svg
+code/images/*.pdf
+

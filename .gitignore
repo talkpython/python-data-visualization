@@ -136,4 +136,7 @@ code/images/*.png
 code/images/*.jpg
 code/images/*.svg
 code/images/*.pdf
-
+seaborn_heatmap.svg
+histogram.svg
+customization_example.svg
+plotlyhistogram.svg

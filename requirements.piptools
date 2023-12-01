@@ -7,4 +7,23 @@
 # Chapter 3 dependencies
 jupyter
 jupyterlab
+pandas
+numpy
 matplotlib
+statsmodels
+
+# Chapter 4 dependencies
+# no additional libs
+
+# Chapter 5 dependencies
+seaborn
+
+# Chapter 6 dependencies
+altair
+altair_data_server
+altair_saver
+openpyxl
+
+# Chapter 7 dependencies
+plotly
+kaleido

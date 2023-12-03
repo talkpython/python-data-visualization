@@ -23,6 +23,10 @@ altair
 altair_data_server
 altair_saver
 openpyxl
+vegafusion
+vegafusion-python-embed
+vl-convert-python
+
 
 # Chapter 7 dependencies
 plotly
